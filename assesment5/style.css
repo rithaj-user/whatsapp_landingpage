@@ -1,0 +1,430 @@
+body{
+  padding:0px;
+  margin:0px;
+}
+.section1{
+  width:1244px;
+  height:761px;
+}
+.div1{
+  width:1260px;
+  height:70px;
+}
+.anchor{
+  height:70;
+  width:143px;
+  padding:16px;
+}
+.logoimg{
+  height:70px;
+  width:130px;
+}
+.div2{
+  width:1250px;
+  height:680px;
+  margin:0px;
+  background-image:linear-gradient(rgb(82, 67, 170),rgb(237, 80, 180)); 
+}
+.txtimg{
+  height:675px;
+  width:1140px;
+  margin:0px 16px;
+  display:flex;
+
+}
+.div21{
+  height:675px;
+  width:570px;
+  padding-top:50px;
+  padding-left:40px;
+}
+.trellotxt{
+  height:180px;
+  width:539px;
+  color:black;
+  font-size:48px;
+  font-family:sans-serif ;
+  color:#ffffff;
+  margin:0px 0px 8px; 
+}
+.p1{
+  height:90px;
+  width:538px;
+  color:#ffffff;
+  font-size:20px;
+  margin:0px 0px 24px;
+  font-family:sans-serif ;
+}
+.div211{
+  height:114px;
+  width:538px;
+  color:#ffffff;
+  font-family:sans-serif ;
+  font-size:20px;
+}
+.str{
+  width:342px;
+  height: 27px;
+}
+.plan{
+  width:538px;
+  height:30px;
+  margin:0px 0px 24px;
+}
+.ul1{
+  height:60px;
+  width:538px;
+  margin:0px 0px 16px;
+  padding:0px 0px 0px 32px;
+}
+.li1{
+  height:30px;
+  width:506px;
+}
+.div212{
+  height:24px;
+  width:538px;
+  padding-top: 30px;
+}
+.form1{
+  height:50px;
+  width:538px;
+}
+.input1{
+  height:25px;
+  width:270px;
+  background-color: #ffffff;
+  padding:11.2px 12px 12.8px;
+  border-radius:5px;
+  border: none;
+  font-family:sans-serif ;
+  font-size:15px;
+}
+.button1{
+  height:50px;
+  width:160px;
+  background-color:#0065FF;
+  padding:11.2px 16px 12.8px;
+  border-radius:5px;
+  border: none;
+  font-family:sans-serif ;
+  font-size:16px;
+  color:#ffffff;
+  margin-left:10px;
+}
+.div22{
+  height:630px;
+  width:664px;
+  margin:0px 0px 8px 20px;
+  padding:30px 16px 16px;
+}
+.picture{
+  width:633px;
+  height:487px;
+}
+.section2{
+  width:1243px;
+  height:110px;
+} 
+.div3{
+  width:1140px;
+  height:110px;
+  padding:35px 16px 16px;
+  margin-left:25px;
+}
+.bigtxt{
+  width:1108px;
+  height:48px;
+  font-size: 30px;
+  font-family:sans-serif;
+  text-align:center;
+  margin-top:5px;
+}
+.div4{
+  width:1243px;
+  height:84px;
+}
+.div5{
+  width:1243px;
+  height:84px;
+  padding:16px;
+  text-align:center;
+}
+.button2{
+  width:108px;
+  height:52px;
+  padding:8px 24px;
+  background-color: #403294;
+  color:#ffffff;
+  border:none;
+  font-size: 20px;
+  font-family:sans-serif;
+  border-radius:20px;
+  margin-right:5px;
+}
+.button3{
+  width:108px;
+  height:52px;
+  padding:8px 24px;
+  background-color:#C0B6F2;
+  color:black;
+  border:none;
+  font-size: 20px;
+  font-family:sans-serif;
+  border-radius:20px;
+  margin-right:5px;
+}
+.button4{
+  width:166px;
+  height:52px;
+  padding:8px 24px;
+  background-color:#C0B6F2;
+  color:black;
+  border:none;
+  font-size: 20px;
+  font-family:sans-serif;
+  border-radius:20px;
+}
+.div6{
+  width:1275px;
+  height:740px;
+  margin:0px 16px;
+  display:flex;
+}
+.div7{
+  width:425px;
+  height:739px;
+  margin:0px 0px 0px 212px;
+  padding:35px 16px;
+}
+.div8{
+  width:637px;
+  height:739px;
+  padding:48px 16px;
+}
+.box1{
+  width:605px;
+  height:532px;
+}
+.div71{
+  width:393px;
+  height:205px;
+  color:#091E42;
+  font-size:20px;
+  font-family:sans-serif;
+}
+.ul2{
+  width:393px;
+  height:152px;
+  margin:0px 0px 16px;
+  padding:0px 0px 0px 32px;
+}
+.li2{
+  width:361px;
+  height:130px;
+  line-height: 1.4;
+}
+.li3{
+  width:361px;
+  height:115px;
+  line-height: 1.4;
+}
+.li4{
+  width:361px;
+  height:130px;
+  line-height: 1.4;
+  padding-bottom:20px;
+}
+.section3{
+  width:1243px;
+  height:484px;
+  background-image: linear-gradient(rgb(234,230,255),rgb(255,255,255));
+}
+.div9{
+  width:1140px;
+  height:484px;
+  margin:0px 16px;
+  display:flex;
+}
+.div91{
+  width:474px;
+  height:484px;
+  padding:128px 16px 48px 50px;
+}
+.div911{
+  width:443px;
+  height:308px;
+  color:#091E42;
+  font-size:20px;
+  font-family:sans-serif;
+}
+.head{
+  width:443px;
+  height:96px;
+  color:#091E42;
+  font-size:36px;
+  font-family:sans-serif;
+  margin:0px 0px 8px;
+  line-height: 1.5;
+  padding-bottom: 10px;
+}
+.para{
+  width:443px;
+  height:180px;
+  color:#091E42;
+  font-size:20px;
+  font-family:sans-serif;
+  line-height: 1.5;
+}
+.div92{
+  width:570px;
+  height:431px;
+  margin:0px 0px 0px 94px;
+  padding:80px 16px 16px;
+}
+.box2{
+  width:538px;
+  height:335px;
+}
+.space{
+  width:1243px;
+  height:64px;
+}
+.section4{
+  width:1243px;
+  height:313px;
+  background-image:linear-gradient(90deg,rgb(64,50,148),rgb(76,154,256));
+}
+.div10{
+  width:1140px;
+  height:313px;
+  display:grid;
+  margin-left:30px;
+}
+.para1{
+  height:20px;
+  width:1000px;
+  font-size:32px;
+  font-family:sans-serif;
+  color:#ffffff;
+  text-align:center;
+  padding-left:50px;
+  padding-top:50px;
+  margin-bottom:0px;
+  line-height:1.5;
+}
+.form2{
+  height:50px;
+  width:1108px;
+  padding-left:300px;
+}
+.input2{
+  height:28px;
+  width:360px;
+  background-color: #ffffff;
+  padding:11.2px 12px 12.8px;
+  border-radius:5px;
+  border: none;
+  font-family:sans-serif ;
+  font-size:15px;
+}
+.button5{
+  width:168px;
+  height:50px;
+  padding:8px 24px;
+  background-color:#ffffff;
+  color:#172B4D;
+  border:none;
+  font-size: 16px;
+  font-family:sans-serif;
+  border-radius:5px;
+  margin-left:5px;
+}
+.section5{
+  width:1243px;
+  height:226px;
+}
+.div11{
+  height:226px;
+  width:1140px;
+  margin:0px 16px;
+}
+.div111{
+  height:226px;
+  width:950px;
+  margin:0px 0px 0px 95px;
+  padding: 16px 16px 80px;
+}
+.para2{
+  width: 918px;
+  height: 30px;
+  font-size: 20px;
+  font-family: sans-serif;
+  margin:0px 0px 24px;
+  padding-left: 100px;
+}
+.brand{
+  height: 77px;
+  width: 918px;
+}
+.section6{
+  height: 150px;
+  width: 1243px;
+  background-color: #091E42;
+}
+.div12{
+  height: 130px;
+  width: 1140px;
+  margin: 0px 16px;
+  color:#ffffff;
+}
+.div121{
+  height: 120px;
+  width: 190px;
+  padding: 16px 16px 0px;
+  display:flex;
+  margin-left:20px;
+}
+.div1211{
+  height: 88px;
+  width: 142px;
+  margin: 28px 16px 0px 0px;
+}
+.logoimg1{
+  height: 42px;
+  width: 125px;
+}
+.h6{
+  height:30px;
+  width: 142px;
+  padding-top: 8px;
+  font-weight: bold;
+}
+.login{
+  height:24px ;
+  width: 45px;
+}
+.div122{
+  height:80px ;
+  width: 950px;
+  padding: 16px;
+  display: flex;
+}
+.a1{
+  height: 98px;
+  width: 230px;
+}
+.pp{
+  height: 24px;
+  width: 198px;
+  color: #ffffff;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+.pp1{
+  height: 15px;
+  width: 198px;
+  color: #ffffff;
+  font-size: 12px;
+  font-family: sans-serif;
+}
