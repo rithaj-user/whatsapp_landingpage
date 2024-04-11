@@ -1,0 +1,420 @@
+body{
+  margin:0;
+  padding:0;
+  background-color:#fcf5eb;
+}
+nav{
+  display:flex;
+  justify-content: space-between;
+  padding-top:20px;
+}
+nav ul{
+  list-style-type:none;
+}
+nav ul a{
+  display:inline-block;
+  text-decoration:none;
+  padding-left:30px;
+  padding-right:30px;
+  font-size:16px;
+  font-family:Arial, Helvetica, sans-serif;
+  color:black;
+}
+img{
+  padding-left:30px;
+  height:30px;
+  margin-top: 10px;
+  margin-left:30px;
+  width:135px;
+}
+button{
+  padding-bottom:10px;
+  padding-top:10px;
+  margin-right: 10px;
+  background-color: #25d366;
+  border-radius:40px;
+  width:150px;
+  border:1px solid;
+  font-size:16px;
+  height:50px;
+}
+.bg{
+  height:752px;
+  width:1127px;
+  margin:25px;
+  padding: 2px;
+  border-radius:30px;
+  position:relative;
+}
+.h1{
+  position:absolute;
+  top:200px;
+  left:100px;
+  font-size:70px;
+  color:white;
+  height:160px;
+  width:322px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.para{
+  position:absolute;
+  top:430px;
+  left:80px;
+  margin:18px;
+  height:75px;
+  width:322.66px;
+  color:white;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:18px;
+}
+.down{
+  position:relative;
+  bottom:300px;
+  left:100px;
+}
+
+.toy img{
+position:absolute;
+top:250px;
+left:670px;
+height: 112px;    
+width: 436px;
+
+}
+.gm img{
+  height:39.73px;
+  width: 436px;
+  position:absolute;
+  top: 200px;                             
+  left:650px;
+
+}
+.vm img{
+  width:436px;
+  height:62px;
+  top:360px;
+  left:650px;
+  position: absolute;
+}
+.heart{
+  position:absolute;
+  top:212px;
+  left:656px;
+}
+.heartpic{
+  height:50px;
+  width:430px;
+}
+.sis{
+  position:absolute;
+  top:430px;
+  left:650px;
+}
+.sispic{
+  height:240px;
+  width:400px;
+}
+.crypic{
+  height:45px;
+  width:430px;
+}
+.cry{
+  position:absolute;
+  top:650px;
+  left:650px;
+}
+.text{
+  position:absolute;
+  top:700px;
+  left:630px;
+}
+.textpic{
+  height:58px;
+  width:436px;
+}
+.info{
+  position: absolute;
+  top:860px;
+  left:830px;
+  color: #5e5e5e;
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:12px;
+  height:15px;
+  width:320px;
+  margin:12px 0px;
+}
+.contact{
+  height:210px;
+  width:1100px;  
+}
+.art{
+  height:200px;
+  width:1000px;
+  padding:0px 20px;
+}
+.mesghead{
+  height:195px;
+  width:950px;
+  font-family:Arial, Helvetica, sans-serif;
+  text-align:center;
+  font-size:48px;
+  padding-left:140px;
+  padding-top:30px;
+}
+.person{
+  padding-top:40px;
+  height:230px;
+  width:1120px;
+}
+.art2{
+  height:200px;
+  width:1100px;
+  padding:0px 20px;
+}
+.sec2{
+  height:800px;
+  width:1240px;
+}
+.maindiv{
+  height:800px;
+  width:1120px;
+  margin:0px 57px;
+  padding:0px 24px;
+}
+.prediv{
+  width:1080px;
+  height:650px;
+}
+.fdiv{
+  width:449px;
+  height:658px;
+  float:left;
+}
+.sdiv{
+  width:540px;
+  height:658px;
+  float:right;
+}
+.art2{
+  width:450px;
+  height:385px;
+}
+.stmnt{
+  width:450px;
+  height:240px;
+  color:#1C1E21;
+  font-size:60px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.stmnt2{
+  width:450px;
+  height:75px;
+  margin:18px 0px;
+  font-size:18px;
+  font-family:Arial, Helvetica, sans-serif;
+  color:#1C1E21;
+}
+.stmnt3{
+  height:16px;
+  width:100px;
+  font-size:16px;
+  font-family:Arial, Helvetica, sans-serif;
+  text-decoration: 2px underline rgb(48, 236, 48);
+}
+.sdiv{
+  height:660px;
+  width:540px;
+}
+.vcall{
+  height:654px;
+  width:335px;
+  padding-bottom:100px;
+  padding-left:100px;
+}
+.sec3{
+  width:1240px;
+  height:850px;
+  background-color:#111B21;
+}
+.maindiv1{
+  width:1128px;
+  height:846px;
+  margin:0px 58x;
+  padding:0px 24px;
+}
+.prediv1{
+  width:1080px;
+  height:655px;
+}
+.chatbg{
+  width:528px;
+  height:650px;
+  padding-top:100px;
+}
+.fdiv1{
+  width:450px;
+  height:655px;
+  float:right;
+  padding-left:30px;
+}
+.stmt{
+  height:120px;
+  width:450px;
+  color:#FFFFFF;
+  font-size:60px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.bold{
+  height:66px;
+  width:136px;
+  color:#25D366;
+}
+.art3{
+  padding-top:170px;
+}
+.stmt1{
+  height:100px;
+  width:450px;
+  padding:0px 0px 16px; 
+  color:#FFFFFF;
+  font-size: 18px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.stmt2{
+  height:16px;
+  width:100px;
+  color:#FFFFFF;
+  font-size: 16px;
+  font-family:Arial, Helvetica, sans-serif;
+  text-decoration: 2px underline rgb(48, 236, 48);
+}
+.grpbg{
+  height:647px;
+  width:326px;
+  position:relative;
+}
+.grpchat{
+  height:480px;
+  width:400px;
+  position:absolute;
+  right:200px;
+  top:3600px;
+}
+.fdivv{
+  float:right;
+}
+.sdivv{
+  float:left;
+
+}
+.africa{
+  width:326px;
+  height:647px;
+  padding-left:140px;
+  padding-bottom:200px;
+}
+.stickers{
+  width:326px;
+  height:280px;
+  position:absolute;
+  top:4500px;
+  left:200px;
+}
+.channel{
+  height:647px;
+  width:326px;
+}
+.secl{
+  height: 843px;
+  width:1243px;
+}
+.maindivl{
+  height: 843px;
+  width:1127px;
+  margin:0px 58px;
+  padding:0px 24px;
+}
+.predivl{
+  height:651px;
+  width:1080px;
+}
+.fdivl{
+  width:450px;
+  height:651px;
+  float:left;
+  padding-right:200px;
+}
+.art2l{
+  height:290px;
+  width:450px;
+}
+.sdivl{
+  float:right;
+  height:651px;
+  width:540px;
+  position:absolute;
+  top:5000px;
+  left:700px;
+}
+.mdiv{
+  height:200px;
+  width:1240px;
+  padding:96px 20px 88px;
+  margin:0px;
+  background-color: #111B21;
+  display: flex;
+}
+.wpdiv{
+  height:120px;
+  width:262px;
+  padding-left:60px;
+  padding-bottom:100px;
+}
+.logo{
+  padding:0px 0px 56px;
+}
+.spandb{
+  padding:45px 0px 0px;
+}
+.box{
+  height:196px;
+  width:196px;
+}
+span{
+  color:#FFFFFF;
+  display:block;
+  padding-bottom:10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:12px;
+}
+.spandb{
+  font-size:18px;
+  padding-bottom:8px;
+  padding-top:8px;
+}
+.maindivision{
+  height:126px;
+  width:1243px;
+  background-color: #111B21;
+  margin:0px;
+  padding:4px 24px;
+}
+.subdiv{
+  width:1050px;
+  height:118px;
+  padding:32px 0px;
+}
+.year{
+  height:33px;
+  width:112px;
+  font-size:12px;
+  color:#FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.terms{
+  height:29px;
+  width:115px;
+  font-size:12px;
+  color:#FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;
+}
